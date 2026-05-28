@@ -7,7 +7,7 @@ from tqdm import tqdm
 import threading
 
 # ================= 配置区域 =================
-API_KEY = "sk-9885898f801645a890417229eeb56d78"
+API_KEY = ""
 BASE_URL = "https://api.deepseek.com"
 
 # 1. 输入：你刚分解好的思维链文件
