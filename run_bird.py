@@ -7,7 +7,7 @@ from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # ================= 配置区域 =================
-API_KEY = "sk-9885898f801645a890417229eeb56d78" 
+API_KEY = "" 
 BASE_URL = "https://api.deepseek.com"
 INPUT_FILE = "dev_prompt.jsonl"
 OUTPUT_FILE = "predict_dev_1.json"
