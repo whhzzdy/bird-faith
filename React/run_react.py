@@ -14,7 +14,7 @@ from tqdm import tqdm
 import threading
 
 # ================= 配置 =================
-API_KEY = "sk-9885898f801645a890417229eeb56d78"
+API_KEY = ""
 BASE_URL = "https://api.deepseek.com"
 
 # v2: 直接复用标准 prompt（dev_prompt.jsonl），保证 prompt 质量与 baseline 一致
