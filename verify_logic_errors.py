@@ -7,7 +7,7 @@ from openai import OpenAI
 from tqdm import tqdm
 
 # ================= 配置区域 =================
-API_KEY = "sk-9885898f801645a890417229eeb56d78"
+API_KEY = ""
 BASE_URL = "https://api.deepseek.com"
 
 # 1. 输入文件：上一轮评估生成的 JSON (包含 eval_result)
