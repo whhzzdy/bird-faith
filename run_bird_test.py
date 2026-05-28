@@ -9,7 +9,7 @@ from tqdm import tqdm
 
 # ================= 配置区域 =================
 # 1. 填入你的 DeepSeek API Key
-API_KEY = "sk-9885898f801645a890417229eeb56d78" 
+API_KEY = "" 
 BASE_URL = "https://api.deepseek.com"
 
 # 2. 文件路径
