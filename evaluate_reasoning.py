@@ -5,7 +5,7 @@ from openai import OpenAI
 from tqdm import tqdm
 
 # ================= 配置区域 =================
-API_KEY = "sk-9885898f801645a890417229eeb56d78"
+API_KEY = ""
 BASE_URL = "https://api.deepseek.com"
 
 # 1. 输入文件：必须是 Step 2 生成的【只包含正确样本】的文件
