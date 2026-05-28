@@ -7,7 +7,7 @@ from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # ================= CONFIGURATION =================
-API_KEY = "sk-9885898f801645a890417229eeb56d78"
+API_KEY = ""
 BASE_URL = "https://api.deepseek.com"
 
 INPUT_FILE = "bird_train/all/cleaned_predict_dev_with_cot.json"
