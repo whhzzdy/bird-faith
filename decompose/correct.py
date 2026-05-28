@@ -8,7 +8,7 @@ from tqdm import tqdm
 import threading
 
 # ================= 配置区域 =================
-API_KEY = "sk-9885898f801645a890417229eeb56d78"  # 替换为你的 API KEY
+API_KEY = ""  # 替换为你的 API KEY
 BASE_URL = "https://api.deepseek.com"
 
 # 输入文件：第一步评估的结果
