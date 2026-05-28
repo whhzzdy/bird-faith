@@ -1,0 +1,11 @@
+train/train_databases/
+data/dev_databases/
+log/
+exp_result/
+__pycache__/
+*.log
+bird_train/all/
+decompose/decomposed_cot.json
+decompose/decomposed_cot_final.json
+decompose/step_level_evaluation_results.json
+decompose/simplify_prompt_result/step_level_evaluation_results_1.json

@@ -1,0 +1,7 @@
+{
+    "0": "SELECT MAX(\"Free Meal Count (K-12)\" * 1.0 / NULLIF(\"Enrollment (K-12)\", 0)) AS highest_eligible_free_rate FROM frpm WHERE \"County Name\" = 'Alameda';\t----- bird -----\tcalifornia_schools",
+    "1": "SELECT (COALESCE(`Free Meal Count (Ages 5-17)`, 0) * 1.0 / NULLIF(`Enrollment (Ages 5-17)`, 0)) AS eligible_free_rate FROM frpm WHERE `Educational Option Type` LIKE '%Continuation%' ORDER BY eligible_free_rate ASC LIMIT 3;\t----- bird -----\tcalifornia_schools",
+    "2": "SELECT DISTINCT s.Zip FROM frpm f JOIN schools s ON f.CDSCode = s.CDSCode WHERE f.`Charter School (Y/N)` = 1 AND s.District = 'Fresno County Office of Education';\t----- bird -----\tcalifornia_schools",
+    "3": "SELECT s.MailStreet FROM schools s JOIN frpm f ON s.CDSCode = f.CDSCode ORDER BY f.`FRPM Count (K-12)` DESC LIMIT 1;\t----- bird -----\tcalifornia_schools",
+    "4": "SELECT s.Phone FROM schools s JOIN frpm f ON s.CDSCode = f.CDSCode WHERE f.`Charter School (Y/N)` = 1 AND f.`Charter Funding Type` = 'Directly funded' AND s.OpenDate > '2000-01-01';\t----- bird -----\tcalifornia_schools"
+}

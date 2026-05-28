@@ -1,0 +1,2002 @@
+[
+    {
+        "sql_idx": 0,
+        "res": 0
+    },
+    {
+        "sql_idx": 1,
+        "res": 1
+    },
+    {
+        "sql_idx": 2,
+        "res": 0
+    },
+    {
+        "sql_idx": 3,
+        "res": 0
+    },
+    {
+        "sql_idx": 4,
+        "res": 1
+    },
+    {
+        "sql_idx": 5,
+        "res": 1
+    },
+    {
+        "sql_idx": 6,
+        "res": 0
+    },
+    {
+        "sql_idx": 7,
+        "res": 1
+    },
+    {
+        "sql_idx": 8,
+        "res": 1
+    },
+    {
+        "sql_idx": 9,
+        "res": 1
+    },
+    {
+        "sql_idx": 10,
+        "res": 1
+    },
+    {
+        "sql_idx": 11,
+        "res": 0
+    },
+    {
+        "sql_idx": 12,
+        "res": 1
+    },
+    {
+        "sql_idx": 13,
+        "res": 1
+    },
+    {
+        "sql_idx": 14,
+        "res": 1
+    },
+    {
+        "sql_idx": 15,
+        "res": 1
+    },
+    {
+        "sql_idx": 16,
+        "res": 1
+    },
+    {
+        "sql_idx": 17,
+        "res": 0
+    },
+    {
+        "sql_idx": 18,
+        "res": 1
+    },
+    {
+        "sql_idx": 19,
+        "res": 1
+    },
+    {
+        "sql_idx": 20,
+        "res": 1
+    },
+    {
+        "sql_idx": 21,
+        "res": 1
+    },
+    {
+        "sql_idx": 22,
+        "res": 0
+    },
+    {
+        "sql_idx": 23,
+        "res": 1
+    },
+    {
+        "sql_idx": 24,
+        "res": 1
+    },
+    {
+        "sql_idx": 25,
+        "res": 1
+    },
+    {
+        "sql_idx": 26,
+        "res": 1
+    },
+    {
+        "sql_idx": 27,
+        "res": 1
+    },
+    {
+        "sql_idx": 28,
+        "res": 1
+    },
+    {
+        "sql_idx": 29,
+        "res": 1
+    },
+    {
+        "sql_idx": 30,
+        "res": 0
+    },
+    {
+        "sql_idx": 31,
+        "res": 0
+    },
+    {
+        "sql_idx": 32,
+        "res": 0
+    },
+    {
+        "sql_idx": 33,
+        "res": 0
+    },
+    {
+        "sql_idx": 34,
+        "res": 0
+    },
+    {
+        "sql_idx": 35,
+        "res": 1
+    },
+    {
+        "sql_idx": 36,
+        "res": 1
+    },
+    {
+        "sql_idx": 37,
+        "res": 0
+    },
+    {
+        "sql_idx": 38,
+        "res": 0
+    },
+    {
+        "sql_idx": 39,
+        "res": 1
+    },
+    {
+        "sql_idx": 40,
+        "res": 0
+    },
+    {
+        "sql_idx": 41,
+        "res": 1
+    },
+    {
+        "sql_idx": 42,
+        "res": 0
+    },
+    {
+        "sql_idx": 43,
+        "res": 1
+    },
+    {
+        "sql_idx": 44,
+        "res": 0
+    },
+    {
+        "sql_idx": 45,
+        "res": 0
+    },
+    {
+        "sql_idx": 46,
+        "res": 1
+    },
+    {
+        "sql_idx": 47,
+        "res": 0
+    },
+    {
+        "sql_idx": 48,
+        "res": 0
+    },
+    {
+        "sql_idx": 49,
+        "res": 0
+    },
+    {
+        "sql_idx": 50,
+        "res": 0
+    },
+    {
+        "sql_idx": 51,
+        "res": 1
+    },
+    {
+        "sql_idx": 52,
+        "res": 1
+    },
+    {
+        "sql_idx": 53,
+        "res": 1
+    },
+    {
+        "sql_idx": 54,
+        "res": 1
+    },
+    {
+        "sql_idx": 55,
+        "res": 1
+    },
+    {
+        "sql_idx": 56,
+        "res": 1
+    },
+    {
+        "sql_idx": 57,
+        "res": 0
+    },
+    {
+        "sql_idx": 58,
+        "res": 1
+    },
+    {
+        "sql_idx": 59,
+        "res": 1
+    },
+    {
+        "sql_idx": 60,
+        "res": 1
+    },
+    {
+        "sql_idx": 61,
+        "res": 1
+    },
+    {
+        "sql_idx": 62,
+        "res": 1
+    },
+    {
+        "sql_idx": 63,
+        "res": 0
+    },
+    {
+        "sql_idx": 64,
+        "res": 1
+    },
+    {
+        "sql_idx": 65,
+        "res": 1
+    },
+    {
+        "sql_idx": 66,
+        "res": 1
+    },
+    {
+        "sql_idx": 67,
+        "res": 1
+    },
+    {
+        "sql_idx": 68,
+        "res": 1
+    },
+    {
+        "sql_idx": 69,
+        "res": 1
+    },
+    {
+        "sql_idx": 70,
+        "res": 0
+    },
+    {
+        "sql_idx": 71,
+        "res": 0
+    },
+    {
+        "sql_idx": 72,
+        "res": 1
+    },
+    {
+        "sql_idx": 73,
+        "res": 0
+    },
+    {
+        "sql_idx": 74,
+        "res": 1
+    },
+    {
+        "sql_idx": 75,
+        "res": 1
+    },
+    {
+        "sql_idx": 76,
+        "res": 1
+    },
+    {
+        "sql_idx": 77,
+        "res": 1
+    },
+    {
+        "sql_idx": 78,
+        "res": 0
+    },
+    {
+        "sql_idx": 79,
+        "res": 1
+    },
+    {
+        "sql_idx": 80,
+        "res": 1
+    },
+    {
+        "sql_idx": 81,
+        "res": 1
+    },
+    {
+        "sql_idx": 82,
+        "res": 1
+    },
+    {
+        "sql_idx": 83,
+        "res": 0
+    },
+    {
+        "sql_idx": 84,
+        "res": 1
+    },
+    {
+        "sql_idx": 85,
+        "res": 1
+    },
+    {
+        "sql_idx": 86,
+        "res": 1
+    },
+    {
+        "sql_idx": 87,
+        "res": 1
+    },
+    {
+        "sql_idx": 88,
+        "res": 0
+    },
+    {
+        "sql_idx": 89,
+        "res": 1
+    },
+    {
+        "sql_idx": 90,
+        "res": 1
+    },
+    {
+        "sql_idx": 91,
+        "res": 1
+    },
+    {
+        "sql_idx": 92,
+        "res": 0
+    },
+    {
+        "sql_idx": 93,
+        "res": 0
+    },
+    {
+        "sql_idx": 94,
+        "res": 0
+    },
+    {
+        "sql_idx": 95,
+        "res": 0
+    },
+    {
+        "sql_idx": 96,
+        "res": 1
+    },
+    {
+        "sql_idx": 97,
+        "res": 1
+    },
+    {
+        "sql_idx": 98,
+        "res": 0
+    },
+    {
+        "sql_idx": 99,
+        "res": 1
+    },
+    {
+        "sql_idx": 100,
+        "res": 1
+    },
+    {
+        "sql_idx": 101,
+        "res": 1
+    },
+    {
+        "sql_idx": 102,
+        "res": 0
+    },
+    {
+        "sql_idx": 103,
+        "res": 1
+    },
+    {
+        "sql_idx": 104,
+        "res": 1
+    },
+    {
+        "sql_idx": 105,
+        "res": 1
+    },
+    {
+        "sql_idx": 106,
+        "res": 1
+    },
+    {
+        "sql_idx": 107,
+        "res": 1
+    },
+    {
+        "sql_idx": 108,
+        "res": 0
+    },
+    {
+        "sql_idx": 109,
+        "res": 0
+    },
+    {
+        "sql_idx": 110,
+        "res": 0
+    },
+    {
+        "sql_idx": 111,
+        "res": 0
+    },
+    {
+        "sql_idx": 112,
+        "res": 1
+    },
+    {
+        "sql_idx": 113,
+        "res": 1
+    },
+    {
+        "sql_idx": 114,
+        "res": 1
+    },
+    {
+        "sql_idx": 115,
+        "res": 0
+    },
+    {
+        "sql_idx": 116,
+        "res": 0
+    },
+    {
+        "sql_idx": 117,
+        "res": 0
+    },
+    {
+        "sql_idx": 118,
+        "res": 1
+    },
+    {
+        "sql_idx": 119,
+        "res": 0
+    },
+    {
+        "sql_idx": 120,
+        "res": 0
+    },
+    {
+        "sql_idx": 121,
+        "res": 0
+    },
+    {
+        "sql_idx": 122,
+        "res": 1
+    },
+    {
+        "sql_idx": 123,
+        "res": 1
+    },
+    {
+        "sql_idx": 124,
+        "res": 1
+    },
+    {
+        "sql_idx": 125,
+        "res": 0
+    },
+    {
+        "sql_idx": 126,
+        "res": 0
+    },
+    {
+        "sql_idx": 127,
+        "res": 1
+    },
+    {
+        "sql_idx": 128,
+        "res": 1
+    },
+    {
+        "sql_idx": 129,
+        "res": 0
+    },
+    {
+        "sql_idx": 130,
+        "res": 1
+    },
+    {
+        "sql_idx": 131,
+        "res": 0
+    },
+    {
+        "sql_idx": 132,
+        "res": 1
+    },
+    {
+        "sql_idx": 133,
+        "res": 0
+    },
+    {
+        "sql_idx": 134,
+        "res": 1
+    },
+    {
+        "sql_idx": 135,
+        "res": 1
+    },
+    {
+        "sql_idx": 136,
+        "res": 0
+    },
+    {
+        "sql_idx": 137,
+        "res": 0
+    },
+    {
+        "sql_idx": 138,
+        "res": 1
+    },
+    {
+        "sql_idx": 139,
+        "res": 0
+    },
+    {
+        "sql_idx": 140,
+        "res": 0
+    },
+    {
+        "sql_idx": 141,
+        "res": 0
+    },
+    {
+        "sql_idx": 142,
+        "res": 1
+    },
+    {
+        "sql_idx": 143,
+        "res": 1
+    },
+    {
+        "sql_idx": 144,
+        "res": 1
+    },
+    {
+        "sql_idx": 145,
+        "res": 1
+    },
+    {
+        "sql_idx": 146,
+        "res": 0
+    },
+    {
+        "sql_idx": 147,
+        "res": 1
+    },
+    {
+        "sql_idx": 148,
+        "res": 0
+    },
+    {
+        "sql_idx": 149,
+        "res": 0
+    },
+    {
+        "sql_idx": 150,
+        "res": 1
+    },
+    {
+        "sql_idx": 151,
+        "res": 1
+    },
+    {
+        "sql_idx": 152,
+        "res": 1
+    },
+    {
+        "sql_idx": 153,
+        "res": 1
+    },
+    {
+        "sql_idx": 154,
+        "res": 0
+    },
+    {
+        "sql_idx": 155,
+        "res": 0
+    },
+    {
+        "sql_idx": 156,
+        "res": 0
+    },
+    {
+        "sql_idx": 157,
+        "res": 0
+    },
+    {
+        "sql_idx": 158,
+        "res": 0
+    },
+    {
+        "sql_idx": 159,
+        "res": 1
+    },
+    {
+        "sql_idx": 160,
+        "res": 0
+    },
+    {
+        "sql_idx": 161,
+        "res": 1
+    },
+    {
+        "sql_idx": 162,
+        "res": 0
+    },
+    {
+        "sql_idx": 163,
+        "res": 0
+    },
+    {
+        "sql_idx": 164,
+        "res": 0
+    },
+    {
+        "sql_idx": 165,
+        "res": 1
+    },
+    {
+        "sql_idx": 166,
+        "res": 0
+    },
+    {
+        "sql_idx": 167,
+        "res": 1
+    },
+    {
+        "sql_idx": 168,
+        "res": 1
+    },
+    {
+        "sql_idx": 169,
+        "res": 1
+    },
+    {
+        "sql_idx": 170,
+        "res": 1
+    },
+    {
+        "sql_idx": 171,
+        "res": 0
+    },
+    {
+        "sql_idx": 172,
+        "res": 0
+    },
+    {
+        "sql_idx": 173,
+        "res": 1
+    },
+    {
+        "sql_idx": 174,
+        "res": 0
+    },
+    {
+        "sql_idx": 175,
+        "res": 1
+    },
+    {
+        "sql_idx": 176,
+        "res": 0
+    },
+    {
+        "sql_idx": 177,
+        "res": 0
+    },
+    {
+        "sql_idx": 178,
+        "res": 0
+    },
+    {
+        "sql_idx": 179,
+        "res": 1
+    },
+    {
+        "sql_idx": 180,
+        "res": 1
+    },
+    {
+        "sql_idx": 181,
+        "res": 0
+    },
+    {
+        "sql_idx": 182,
+        "res": 1
+    },
+    {
+        "sql_idx": 183,
+        "res": 1
+    },
+    {
+        "sql_idx": 184,
+        "res": 0
+    },
+    {
+        "sql_idx": 185,
+        "res": 0
+    },
+    {
+        "sql_idx": 186,
+        "res": 0
+    },
+    {
+        "sql_idx": 187,
+        "res": 1
+    },
+    {
+        "sql_idx": 188,
+        "res": 1
+    },
+    {
+        "sql_idx": 189,
+        "res": 1
+    },
+    {
+        "sql_idx": 190,
+        "res": 1
+    },
+    {
+        "sql_idx": 191,
+        "res": 0
+    },
+    {
+        "sql_idx": 192,
+        "res": 0
+    },
+    {
+        "sql_idx": 193,
+        "res": 0
+    },
+    {
+        "sql_idx": 194,
+        "res": 0
+    },
+    {
+        "sql_idx": 195,
+        "res": 1
+    },
+    {
+        "sql_idx": 196,
+        "res": 1
+    },
+    {
+        "sql_idx": 197,
+        "res": 1
+    },
+    {
+        "sql_idx": 198,
+        "res": 1
+    },
+    {
+        "sql_idx": 199,
+        "res": 0
+    },
+    {
+        "sql_idx": 200,
+        "res": 1
+    },
+    {
+        "sql_idx": 201,
+        "res": 1
+    },
+    {
+        "sql_idx": 202,
+        "res": 1
+    },
+    {
+        "sql_idx": 203,
+        "res": 1
+    },
+    {
+        "sql_idx": 204,
+        "res": 1
+    },
+    {
+        "sql_idx": 205,
+        "res": 1
+    },
+    {
+        "sql_idx": 206,
+        "res": 1
+    },
+    {
+        "sql_idx": 207,
+        "res": 1
+    },
+    {
+        "sql_idx": 208,
+        "res": 1
+    },
+    {
+        "sql_idx": 209,
+        "res": 0
+    },
+    {
+        "sql_idx": 210,
+        "res": 1
+    },
+    {
+        "sql_idx": 211,
+        "res": 1
+    },
+    {
+        "sql_idx": 212,
+        "res": 1
+    },
+    {
+        "sql_idx": 213,
+        "res": 0
+    },
+    {
+        "sql_idx": 214,
+        "res": 1
+    },
+    {
+        "sql_idx": 215,
+        "res": 0
+    },
+    {
+        "sql_idx": 216,
+        "res": 1
+    },
+    {
+        "sql_idx": 217,
+        "res": 1
+    },
+    {
+        "sql_idx": 218,
+        "res": 1
+    },
+    {
+        "sql_idx": 219,
+        "res": 0
+    },
+    {
+        "sql_idx": 220,
+        "res": 1
+    },
+    {
+        "sql_idx": 221,
+        "res": 0
+    },
+    {
+        "sql_idx": 222,
+        "res": 1
+    },
+    {
+        "sql_idx": 223,
+        "res": 0
+    },
+    {
+        "sql_idx": 224,
+        "res": 0
+    },
+    {
+        "sql_idx": 225,
+        "res": 1
+    },
+    {
+        "sql_idx": 226,
+        "res": 0
+    },
+    {
+        "sql_idx": 227,
+        "res": 0
+    },
+    {
+        "sql_idx": 228,
+        "res": 1
+    },
+    {
+        "sql_idx": 229,
+        "res": 0
+    },
+    {
+        "sql_idx": 230,
+        "res": 0
+    },
+    {
+        "sql_idx": 231,
+        "res": 0
+    },
+    {
+        "sql_idx": 232,
+        "res": 0
+    },
+    {
+        "sql_idx": 233,
+        "res": 1
+    },
+    {
+        "sql_idx": 234,
+        "res": 0
+    },
+    {
+        "sql_idx": 235,
+        "res": 1
+    },
+    {
+        "sql_idx": 236,
+        "res": 0
+    },
+    {
+        "sql_idx": 237,
+        "res": 1
+    },
+    {
+        "sql_idx": 238,
+        "res": 0
+    },
+    {
+        "sql_idx": 239,
+        "res": 0
+    },
+    {
+        "sql_idx": 240,
+        "res": 1
+    },
+    {
+        "sql_idx": 241,
+        "res": 0
+    },
+    {
+        "sql_idx": 242,
+        "res": 1
+    },
+    {
+        "sql_idx": 243,
+        "res": 0
+    },
+    {
+        "sql_idx": 244,
+        "res": 1
+    },
+    {
+        "sql_idx": 245,
+        "res": 1
+    },
+    {
+        "sql_idx": 246,
+        "res": 1
+    },
+    {
+        "sql_idx": 247,
+        "res": 1
+    },
+    {
+        "sql_idx": 248,
+        "res": 0
+    },
+    {
+        "sql_idx": 249,
+        "res": 1
+    },
+    {
+        "sql_idx": 250,
+        "res": 0
+    },
+    {
+        "sql_idx": 251,
+        "res": 0
+    },
+    {
+        "sql_idx": 252,
+        "res": 0
+    },
+    {
+        "sql_idx": 253,
+        "res": 1
+    },
+    {
+        "sql_idx": 254,
+        "res": 1
+    },
+    {
+        "sql_idx": 255,
+        "res": 0
+    },
+    {
+        "sql_idx": 256,
+        "res": 0
+    },
+    {
+        "sql_idx": 257,
+        "res": 0
+    },
+    {
+        "sql_idx": 258,
+        "res": 1
+    },
+    {
+        "sql_idx": 259,
+        "res": 0
+    },
+    {
+        "sql_idx": 260,
+        "res": 1
+    },
+    {
+        "sql_idx": 261,
+        "res": 1
+    },
+    {
+        "sql_idx": 262,
+        "res": 0
+    },
+    {
+        "sql_idx": 263,
+        "res": 1
+    },
+    {
+        "sql_idx": 264,
+        "res": 0
+    },
+    {
+        "sql_idx": 265,
+        "res": 1
+    },
+    {
+        "sql_idx": 266,
+        "res": 0
+    },
+    {
+        "sql_idx": 267,
+        "res": 0
+    },
+    {
+        "sql_idx": 268,
+        "res": 0
+    },
+    {
+        "sql_idx": 269,
+        "res": 0
+    },
+    {
+        "sql_idx": 270,
+        "res": 0
+    },
+    {
+        "sql_idx": 271,
+        "res": 1
+    },
+    {
+        "sql_idx": 272,
+        "res": 0
+    },
+    {
+        "sql_idx": 273,
+        "res": 0
+    },
+    {
+        "sql_idx": 274,
+        "res": 1
+    },
+    {
+        "sql_idx": 275,
+        "res": 1
+    },
+    {
+        "sql_idx": 276,
+        "res": 1
+    },
+    {
+        "sql_idx": 277,
+        "res": 1
+    },
+    {
+        "sql_idx": 278,
+        "res": 0
+    },
+    {
+        "sql_idx": 279,
+        "res": 0
+    },
+    {
+        "sql_idx": 280,
+        "res": 0
+    },
+    {
+        "sql_idx": 281,
+        "res": 0
+    },
+    {
+        "sql_idx": 282,
+        "res": 0
+    },
+    {
+        "sql_idx": 283,
+        "res": 0
+    },
+    {
+        "sql_idx": 284,
+        "res": 0
+    },
+    {
+        "sql_idx": 285,
+        "res": 0
+    },
+    {
+        "sql_idx": 286,
+        "res": 0
+    },
+    {
+        "sql_idx": 287,
+        "res": 1
+    },
+    {
+        "sql_idx": 288,
+        "res": 1
+    },
+    {
+        "sql_idx": 289,
+        "res": 1
+    },
+    {
+        "sql_idx": 290,
+        "res": 1
+    },
+    {
+        "sql_idx": 291,
+        "res": 0
+    },
+    {
+        "sql_idx": 292,
+        "res": 1
+    },
+    {
+        "sql_idx": 293,
+        "res": 1
+    },
+    {
+        "sql_idx": 294,
+        "res": 1
+    },
+    {
+        "sql_idx": 295,
+        "res": 0
+    },
+    {
+        "sql_idx": 296,
+        "res": 1
+    },
+    {
+        "sql_idx": 297,
+        "res": 0
+    },
+    {
+        "sql_idx": 298,
+        "res": 1
+    },
+    {
+        "sql_idx": 299,
+        "res": 1
+    },
+    {
+        "sql_idx": 300,
+        "res": 1
+    },
+    {
+        "sql_idx": 301,
+        "res": 0
+    },
+    {
+        "sql_idx": 302,
+        "res": 0
+    },
+    {
+        "sql_idx": 303,
+        "res": 0
+    },
+    {
+        "sql_idx": 304,
+        "res": 0
+    },
+    {
+        "sql_idx": 305,
+        "res": 0
+    },
+    {
+        "sql_idx": 306,
+        "res": 1
+    },
+    {
+        "sql_idx": 307,
+        "res": 1
+    },
+    {
+        "sql_idx": 308,
+        "res": 0
+    },
+    {
+        "sql_idx": 309,
+        "res": 1
+    },
+    {
+        "sql_idx": 310,
+        "res": 1
+    },
+    {
+        "sql_idx": 311,
+        "res": 1
+    },
+    {
+        "sql_idx": 312,
+        "res": 0
+    },
+    {
+        "sql_idx": 313,
+        "res": 1
+    },
+    {
+        "sql_idx": 314,
+        "res": 0
+    },
+    {
+        "sql_idx": 315,
+        "res": 1
+    },
+    {
+        "sql_idx": 316,
+        "res": 0
+    },
+    {
+        "sql_idx": 317,
+        "res": 0
+    },
+    {
+        "sql_idx": 318,
+        "res": 0
+    },
+    {
+        "sql_idx": 319,
+        "res": 1
+    },
+    {
+        "sql_idx": 320,
+        "res": 1
+    },
+    {
+        "sql_idx": 321,
+        "res": 0
+    },
+    {
+        "sql_idx": 322,
+        "res": 1
+    },
+    {
+        "sql_idx": 323,
+        "res": 1
+    },
+    {
+        "sql_idx": 324,
+        "res": 0
+    },
+    {
+        "sql_idx": 325,
+        "res": 0
+    },
+    {
+        "sql_idx": 326,
+        "res": 0
+    },
+    {
+        "sql_idx": 327,
+        "res": 1
+    },
+    {
+        "sql_idx": 328,
+        "res": 0
+    },
+    {
+        "sql_idx": 329,
+        "res": 1
+    },
+    {
+        "sql_idx": 330,
+        "res": 0
+    },
+    {
+        "sql_idx": 331,
+        "res": 0
+    },
+    {
+        "sql_idx": 332,
+        "res": 1
+    },
+    {
+        "sql_idx": 333,
+        "res": 0
+    },
+    {
+        "sql_idx": 334,
+        "res": 0
+    },
+    {
+        "sql_idx": 335,
+        "res": 1
+    },
+    {
+        "sql_idx": 336,
+        "res": 1
+    },
+    {
+        "sql_idx": 337,
+        "res": 0
+    },
+    {
+        "sql_idx": 338,
+        "res": 1
+    },
+    {
+        "sql_idx": 339,
+        "res": 1
+    },
+    {
+        "sql_idx": 340,
+        "res": 0
+    },
+    {
+        "sql_idx": 341,
+        "res": 0
+    },
+    {
+        "sql_idx": 342,
+        "res": 1
+    },
+    {
+        "sql_idx": 343,
+        "res": 0
+    },
+    {
+        "sql_idx": 344,
+        "res": 0
+    },
+    {
+        "sql_idx": 345,
+        "res": 1
+    },
+    {
+        "sql_idx": 346,
+        "res": 1
+    },
+    {
+        "sql_idx": 347,
+        "res": 0
+    },
+    {
+        "sql_idx": 348,
+        "res": 0
+    },
+    {
+        "sql_idx": 349,
+        "res": 0
+    },
+    {
+        "sql_idx": 350,
+        "res": 0
+    },
+    {
+        "sql_idx": 351,
+        "res": 1
+    },
+    {
+        "sql_idx": 352,
+        "res": 0
+    },
+    {
+        "sql_idx": 353,
+        "res": 0
+    },
+    {
+        "sql_idx": 354,
+        "res": 1
+    },
+    {
+        "sql_idx": 355,
+        "res": 1
+    },
+    {
+        "sql_idx": 356,
+        "res": 1
+    },
+    {
+        "sql_idx": 357,
+        "res": 1
+    },
+    {
+        "sql_idx": 358,
+        "res": 0
+    },
+    {
+        "sql_idx": 359,
+        "res": 1
+    },
+    {
+        "sql_idx": 360,
+        "res": 0
+    },
+    {
+        "sql_idx": 361,
+        "res": 0
+    },
+    {
+        "sql_idx": 362,
+        "res": 1
+    },
+    {
+        "sql_idx": 363,
+        "res": 1
+    },
+    {
+        "sql_idx": 364,
+        "res": 1
+    },
+    {
+        "sql_idx": 365,
+        "res": 1
+    },
+    {
+        "sql_idx": 366,
+        "res": 0
+    },
+    {
+        "sql_idx": 367,
+        "res": 1
+    },
+    {
+        "sql_idx": 368,
+        "res": 1
+    },
+    {
+        "sql_idx": 369,
+        "res": 1
+    },
+    {
+        "sql_idx": 370,
+        "res": 0
+    },
+    {
+        "sql_idx": 371,
+        "res": 1
+    },
+    {
+        "sql_idx": 372,
+        "res": 1
+    },
+    {
+        "sql_idx": 373,
+        "res": 0
+    },
+    {
+        "sql_idx": 374,
+        "res": 0
+    },
+    {
+        "sql_idx": 375,
+        "res": 1
+    },
+    {
+        "sql_idx": 376,
+        "res": 1
+    },
+    {
+        "sql_idx": 377,
+        "res": 1
+    },
+    {
+        "sql_idx": 378,
+        "res": 1
+    },
+    {
+        "sql_idx": 379,
+        "res": 0
+    },
+    {
+        "sql_idx": 380,
+        "res": 1
+    },
+    {
+        "sql_idx": 381,
+        "res": 1
+    },
+    {
+        "sql_idx": 382,
+        "res": 1
+    },
+    {
+        "sql_idx": 383,
+        "res": 0
+    },
+    {
+        "sql_idx": 384,
+        "res": 0
+    },
+    {
+        "sql_idx": 385,
+        "res": 1
+    },
+    {
+        "sql_idx": 386,
+        "res": 1
+    },
+    {
+        "sql_idx": 387,
+        "res": 1
+    },
+    {
+        "sql_idx": 388,
+        "res": 1
+    },
+    {
+        "sql_idx": 389,
+        "res": 0
+    },
+    {
+        "sql_idx": 390,
+        "res": 1
+    },
+    {
+        "sql_idx": 391,
+        "res": 1
+    },
+    {
+        "sql_idx": 392,
+        "res": 1
+    },
+    {
+        "sql_idx": 393,
+        "res": 1
+    },
+    {
+        "sql_idx": 394,
+        "res": 1
+    },
+    {
+        "sql_idx": 395,
+        "res": 1
+    },
+    {
+        "sql_idx": 396,
+        "res": 0
+    },
+    {
+        "sql_idx": 397,
+        "res": 0
+    },
+    {
+        "sql_idx": 398,
+        "res": 1
+    },
+    {
+        "sql_idx": 399,
+        "res": 0
+    },
+    {
+        "sql_idx": 400,
+        "res": 1
+    },
+    {
+        "sql_idx": 401,
+        "res": 1
+    },
+    {
+        "sql_idx": 402,
+        "res": 1
+    },
+    {
+        "sql_idx": 403,
+        "res": 1
+    },
+    {
+        "sql_idx": 404,
+        "res": 0
+    },
+    {
+        "sql_idx": 405,
+        "res": 1
+    },
+    {
+        "sql_idx": 406,
+        "res": 1
+    },
+    {
+        "sql_idx": 407,
+        "res": 1
+    },
+    {
+        "sql_idx": 408,
+        "res": 1
+    },
+    {
+        "sql_idx": 409,
+        "res": 1
+    },
+    {
+        "sql_idx": 410,
+        "res": 1
+    },
+    {
+        "sql_idx": 411,
+        "res": 1
+    },
+    {
+        "sql_idx": 412,
+        "res": 1
+    },
+    {
+        "sql_idx": 413,
+        "res": 1
+    },
+    {
+        "sql_idx": 414,
+        "res": 1
+    },
+    {
+        "sql_idx": 415,
+        "res": 1
+    },
+    {
+        "sql_idx": 416,
+        "res": 1
+    },
+    {
+        "sql_idx": 417,
+        "res": 1
+    },
+    {
+        "sql_idx": 418,
+        "res": 1
+    },
+    {
+        "sql_idx": 419,
+        "res": 1
+    },
+    {
+        "sql_idx": 420,
+        "res": 0
+    },
+    {
+        "sql_idx": 421,
+        "res": 1
+    },
+    {
+        "sql_idx": 422,
+        "res": 1
+    },
+    {
+        "sql_idx": 423,
+        "res": 1
+    },
+    {
+        "sql_idx": 424,
+        "res": 1
+    },
+    {
+        "sql_idx": 425,
+        "res": 1
+    },
+    {
+        "sql_idx": 426,
+        "res": 1
+    },
+    {
+        "sql_idx": 427,
+        "res": 1
+    },
+    {
+        "sql_idx": 428,
+        "res": 1
+    },
+    {
+        "sql_idx": 429,
+        "res": 1
+    },
+    {
+        "sql_idx": 430,
+        "res": 1
+    },
+    {
+        "sql_idx": 431,
+        "res": 1
+    },
+    {
+        "sql_idx": 432,
+        "res": 1
+    },
+    {
+        "sql_idx": 433,
+        "res": 1
+    },
+    {
+        "sql_idx": 434,
+        "res": 1
+    },
+    {
+        "sql_idx": 435,
+        "res": 1
+    },
+    {
+        "sql_idx": 436,
+        "res": 1
+    },
+    {
+        "sql_idx": 437,
+        "res": 1
+    },
+    {
+        "sql_idx": 438,
+        "res": 1
+    },
+    {
+        "sql_idx": 439,
+        "res": 1
+    },
+    {
+        "sql_idx": 440,
+        "res": 0
+    },
+    {
+        "sql_idx": 441,
+        "res": 1
+    },
+    {
+        "sql_idx": 442,
+        "res": 1
+    },
+    {
+        "sql_idx": 443,
+        "res": 1
+    },
+    {
+        "sql_idx": 444,
+        "res": 0
+    },
+    {
+        "sql_idx": 445,
+        "res": 1
+    },
+    {
+        "sql_idx": 446,
+        "res": 1
+    },
+    {
+        "sql_idx": 447,
+        "res": 0
+    },
+    {
+        "sql_idx": 448,
+        "res": 1
+    },
+    {
+        "sql_idx": 449,
+        "res": 1
+    },
+    {
+        "sql_idx": 450,
+        "res": 1
+    },
+    {
+        "sql_idx": 451,
+        "res": 1
+    },
+    {
+        "sql_idx": 452,
+        "res": 1
+    },
+    {
+        "sql_idx": 453,
+        "res": 1
+    },
+    {
+        "sql_idx": 454,
+        "res": 1
+    },
+    {
+        "sql_idx": 455,
+        "res": 1
+    },
+    {
+        "sql_idx": 456,
+        "res": 1
+    },
+    {
+        "sql_idx": 457,
+        "res": 0
+    },
+    {
+        "sql_idx": 458,
+        "res": 0
+    },
+    {
+        "sql_idx": 459,
+        "res": 0
+    },
+    {
+        "sql_idx": 460,
+        "res": 1
+    },
+    {
+        "sql_idx": 461,
+        "res": 1
+    },
+    {
+        "sql_idx": 462,
+        "res": 1
+    },
+    {
+        "sql_idx": 463,
+        "res": 0
+    },
+    {
+        "sql_idx": 464,
+        "res": 1
+    },
+    {
+        "sql_idx": 465,
+        "res": 1
+    },
+    {
+        "sql_idx": 466,
+        "res": 1
+    },
+    {
+        "sql_idx": 467,
+        "res": 0
+    },
+    {
+        "sql_idx": 468,
+        "res": 1
+    },
+    {
+        "sql_idx": 469,
+        "res": 1
+    },
+    {
+        "sql_idx": 470,
+        "res": 1
+    },
+    {
+        "sql_idx": 471,
+        "res": 1
+    },
+    {
+        "sql_idx": 472,
+        "res": 0
+    },
+    {
+        "sql_idx": 473,
+        "res": 1
+    },
+    {
+        "sql_idx": 474,
+        "res": 1
+    },
+    {
+        "sql_idx": 475,
+        "res": 1
+    },
+    {
+        "sql_idx": 476,
+        "res": 1
+    },
+    {
+        "sql_idx": 477,
+        "res": 1
+    },
+    {
+        "sql_idx": 478,
+        "res": 1
+    },
+    {
+        "sql_idx": 479,
+        "res": 1
+    },
+    {
+        "sql_idx": 480,
+        "res": 1
+    },
+    {
+        "sql_idx": 481,
+        "res": 1
+    },
+    {
+        "sql_idx": 482,
+        "res": 1
+    },
+    {
+        "sql_idx": 483,
+        "res": 0
+    },
+    {
+        "sql_idx": 484,
+        "res": 0
+    },
+    {
+        "sql_idx": 485,
+        "res": 0
+    },
+    {
+        "sql_idx": 486,
+        "res": 0
+    },
+    {
+        "sql_idx": 487,
+        "res": 1
+    },
+    {
+        "sql_idx": 488,
+        "res": 1
+    },
+    {
+        "sql_idx": 489,
+        "res": 0
+    },
+    {
+        "sql_idx": 490,
+        "res": 1
+    },
+    {
+        "sql_idx": 491,
+        "res": 1
+    },
+    {
+        "sql_idx": 492,
+        "res": 1
+    },
+    {
+        "sql_idx": 493,
+        "res": 0
+    },
+    {
+        "sql_idx": 494,
+        "res": 1
+    },
+    {
+        "sql_idx": 495,
+        "res": 1
+    },
+    {
+        "sql_idx": 496,
+        "res": 0
+    },
+    {
+        "sql_idx": 497,
+        "res": 1
+    },
+    {
+        "sql_idx": 498,
+        "res": 1
+    },
+    {
+        "sql_idx": 499,
+        "res": 1
+    }
+]
